@@ -1,5 +1,5 @@
 # Sum of two vector using cuda:
-- Implementation of an algorithm that will take two vectors (A and B) and sum the corresponding elements in these vectors into the third vector C. The algorithm should work with vectors of variable length containing integer numbers. (All three vectors will have the same dimension.) The algorithm will be implemented in three ways:
+## Implementation of an algorithm that will take two vectors (A and B) and sum the corresponding elements in these vectors into the third vector C. The algorithm should work with vectors of variable length containing integer numbers. (All three vectors will have the same dimension.) The algorithm will be implemented in three ways:
 1) Sum the vectors by using the CPU.
 2) Sum the vectors by using the GPU and manually managed memory.
 3) Sum the vectors by using the GPU and memory managed automatically.
